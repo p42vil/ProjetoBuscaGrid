@@ -12,7 +12,7 @@ Para fazer a busca é preciso:
 
 Código feito com PyCharm e TKinter foi usado.
 
-**Aplicativo feito por Paulo Vilalta e Pedro Henrique Santos.**
+**Programa feito por Paulo Vilalta e Pedro Henrique Santos.**
 
 > [!NOTE]
 > Os algoritmos de busca em grid disponíveis são:<br>
